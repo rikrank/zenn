@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts:": {
+    "zenn": "zenn"
+  },
   "dependencies": {
     "zenn-cli": "^0.1.109"
   }
