@@ -51,7 +51,7 @@ yarn add -D imagemin-keep-folder imagemin-pngquant@9.0.0 imagemin-webp@6.0.0 ima
 
 `imagemin.js`には下記コードを追記します。
 
-```
+```js
 const imagemin = require("imagemin-keep-folder");
 const imageminPngquant = require("imagemin-pngquant");
 const imageminWebp = require("imagemin-webp");
